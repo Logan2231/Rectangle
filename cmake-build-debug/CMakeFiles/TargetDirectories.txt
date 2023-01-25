@@ -1,0 +1,3 @@
+C:/Users/Coddm/CLionProjects/Rectangle/cmake-build-debug/CMakeFiles/Rectangle.dir
+C:/Users/Coddm/CLionProjects/Rectangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Coddm/CLionProjects/Rectangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
